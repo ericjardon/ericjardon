@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23
 
-🔜 Incoming SWE Intern @ [Microsoft](https://microsoft.com)
-🔙 Former Full Stack Developer @ [Listo](https://listo.mx/)
-🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
+🔜 Incoming SWE Intern @ [Microsoft](https://microsoft.com)  
+🔙 Former Full Stack Developer @ [Listo](https://listo.mx/)  
+🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)  
 
 I'm interested in:
 
