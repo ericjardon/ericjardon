@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🇲🇽 From Mexico!
 
-🎓 Computer Science and Technology @ Monterrey Institue of Technology '23
+🎓 Computer Science and Technology @ Monterrey Institute of Technology '23
 
 🔜 Incoming SWE Intern @ [Microsoft](https://microsoft.com)
 🔙 Former Full Stack Developer @ [Listo](https://listo.mx/)
