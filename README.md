@@ -30,3 +30,10 @@ I'm interested in:
 - Cloud Computing 🌩️
 - Natural Language Processing 🧠
 - UX Design 🎨
+
+Projects I am currently working on...
+- 🍜 [**PriceBin**](https://github.com/panasweb/pricebin)
+- 🎬 [**Viuteca**](https://github.com/ericjardon/viuteca)
+- 🌐 [**Semantyk**](https://www.semantyk.com/)
+
+📫 You can reach me: ericjardon@hotmail.com
