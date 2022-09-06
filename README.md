@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23
 
-🧑‍💻 SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
+🧑‍💻 Currently on exchange @ McGill University
+🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
 🔙 Former Full Stack Developer @ [Listo](https://listo.mx/)  
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)  
 
