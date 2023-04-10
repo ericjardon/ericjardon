@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 🇲🇽 From Mexico!
 
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
-👨‍💻🐦 Currently on exchange @ McGill University Faculty of Engineering
+👨‍💻🐦 Previously Engineering Exchange @ McGill University
 
+🐘 Currently building and deploying Classifier Models @ [Listo](https://listo.mx/)  
 🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
-🔙 Former Full Stack Developer @ [Listo](https://listo.mx/)  
-🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)  
+🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
 
 I'm interested in:
 
