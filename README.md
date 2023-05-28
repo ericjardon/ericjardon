@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
 👨‍💻🐦 Previously Engineering Exchange @ McGill University
 
-🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/)
+🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/)  
 🔙 Full Stack Developer and ML Engineer @ [Listo](https://listo.mx/)  
 🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
