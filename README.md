@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 👨‍💻🐦 Previously Engineering Exchange @ McGill University
 
 🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/)  
-🔙 Full Stack Developer and ML Engineer @ [Listo](https://listo.mx/)  
+🔙 Full Stack Developer and ML Specialist @ [Listo](https://listo.mx/)  
 🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
 
@@ -29,11 +29,11 @@ I'm interested in:
 
 - Full Stack Development 👨‍💻
 - Machine Learning 🤖 
-- Cloud Computing 🌩️
 - Natural Language Processing 🧠
+- Parallel and Distributed Computing ⚡
 - UX Design 🎨
 
-Projects I am currently working on...
+Personal Projects I am currently working on...
 - 🍜 [**PriceBin**](https://github.com/panasweb/pricebin)
 - 🎬 [**Viuteca**](https://github.com/ericjardon/viuteca)
 - 🌐 [**Semantyk**](https://www.semantyk.com/)
