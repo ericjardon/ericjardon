@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇲🇽 From Mexico!
-
-🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
-👨‍💻🐦 Previously Engineering Exchange @ McGill University. 
-
+🇲🇽 From Mexico!  
 🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/) 
+🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
+👨‍💻🐦 Previously Engineering Exchange @ McGill University.
 
 🔙 Former Full Stack Developer and ML Specialist @ [Listo](https://listo.mx/)  
 🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
