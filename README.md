@@ -29,7 +29,7 @@ I'm interested in:
 - Full Stack Development 👨‍💻
 - Machine Learning and AI 🤖 
 - Parallel Computing 🧶
-- People's access to Software and Technology 🍃
+- Accesible Software and Technology 🍃
 - Freedom of Information 🎨
 
 <!--
