@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🇲🇽 From Mexico!
 
-🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>  
+🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
 👨‍💻🐦 Previously Engineering Exchange @ McGill University. 
 
 🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/) 
