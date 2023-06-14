@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇲🇽 From Mexico!  
-🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/) 
+🇲🇽 From Mexico! 
+
+🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/) <br/>
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
 👨‍💻🐦 Previously Engineering Exchange @ McGill University.
 
