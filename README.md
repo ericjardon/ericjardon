@@ -26,16 +26,17 @@ Here are some ideas to get you started:
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
 
 I'm interested in:
-
 - Full Stack Development 👨‍💻
-- Machine Learning 🤖 
-- Natural Language Processing 🧠
-- Parallel and Distributed Computing ⚡
-- UX Design 🎨
+- Machine Learning and AI 🤖 
+- Parallel Computing 🧶
+- People's access to Software and Technology 🍃
+- Freedom of Information 🎨
 
+<!--
 Personal Projects I am currently working on...
 - 🍜 [**PriceBin**](https://github.com/panasweb/pricebin)
 - 🎬 [**Viuteca**](https://github.com/ericjardon/viuteca)
 - 🌐 [**Semantyk**](https://www.semantyk.com/)
+-->
 
-📫 You can reach me: ericjardon@hotmail.com
+📫 You can reach me [through LinkedIn](https://www.linkedin.com/in/ericjardon/).
