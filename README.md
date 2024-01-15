@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🇲🇽 From Mexico! 
 
-🏔 Software Development Engineer @ [ClimateAi](https://climate.ai/) <br/>
+🏔 Building the Azure Portal @ [Microsoft](https://microsoft.com)   <br/>
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
 👨‍💻🐦 Previously Engineering Exchange @ McGill University.
 
+🔙 Software Development Engineer @ [ClimateAi](https://climate.ai/)    
 🔙 Former Full Stack Developer and ML Specialist @ [Listo](https://listo.mx/)  
-🔙 Former SWE Intern in Azure IaaS Experiences Team @ [Microsoft](https://microsoft.com)  
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
 
 I'm interested in:
