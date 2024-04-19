@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 🔙 Former Web Development Intern @ [OCCMundial](https://www.occ.com.mx/)
 
 I'm interested in:
-- Full Stack Development 👨‍💻
+- User Experience 🎨
+- Distributed Systems 👨‍💻
 - Machine Learning and AI 🤖 
 - Parallel Computing 🧶
 - Accesible Software and Technology 🍃
-- Freedom of Information 🎨
 
 <!--
 Personal Projects I am currently working on...
