@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🇲🇽 From Mexico! 
 
-🏔 Building the Azure Portal @ [Microsoft](https://microsoft.com)   <br/>
+🌩️ Building the Azure Portal @ [Microsoft](https://microsoft.com)   <br/>
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
 👨‍💻🐦 Previously Engineering Exchange @ McGill University.
 
