@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇲🇽 From Mexico! 
+🇲🇽 Full-stack Engineer from Mexico! 
 
 🌩️ Building the Azure Portal @ [Microsoft](https://microsoft.com)   <br/>
 🎓 Computer Science and Technology @ Monterrey Institute of Technology '23 <br/>
